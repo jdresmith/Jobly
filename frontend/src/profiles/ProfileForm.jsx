@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react";
 import Alert from "../common/Alert";
-import JoblyApi from "../api/api";
+import JoblyApi from "../api";
 import UserContext from "../auth/UserContext";
 
 

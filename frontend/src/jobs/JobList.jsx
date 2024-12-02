@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Search from "../common/SearchForm";
-import JoblyApi from "../api/api";
+import JoblyApi from "../api";
 import JobCardList from "./JobCardList";
 import LoadingSpinner from "../common/LoadingSpinner";
 
